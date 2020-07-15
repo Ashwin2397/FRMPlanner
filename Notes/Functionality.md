@@ -60,7 +60,7 @@
         - Show number of weeks to exam
         - Show expected syllabus completion date
     * Performance
-        - Model a predicted score as per the *current* mastery levels of each topic and mock exams completed 
+        - Model a predicted score as per the ** current ** mastery levels of each topic and mock exams completed 
     * Mocks Report Cards
         - *Your* Performance on mock exams 
     * Mocks Progress Summary
