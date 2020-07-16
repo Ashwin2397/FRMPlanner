@@ -82,4 +82,7 @@
 ---
 ##Legend:
 
-* Version 1 -v1 {Barebones}
+* Version 1 - v1 {Barebones}
+* Version 2 - v2 {Add Features}
+* Version 3 - v3 {Layer Abstractions}
+* Version 4 - v4 {Extra Features}
