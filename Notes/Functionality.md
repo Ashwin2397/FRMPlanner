@@ -33,20 +33,49 @@
         * A checkbox to start the timer
     * End (v2)
         * A simple btn to stop the timer
-## Each Reading
+## Each Reading Page
     * Upon completion, user will add tags to best describe reading (v3)
     * each reading will be accompanied by a thread for users to add comments or ask questions for other users to ask (v3)
     * 
 
+## Each Reading Component(on schedule page)
+    * Color of component based on the "intensity" level
+        - Intensity Levels are as follows:
+            - Easy: Yellow
+            - Medium: Orange
+            - Hard: Red
+    * The "Tick" indicates the completion of the reading
+        - Tick will be green when completed
+        - Tick will be white when INcomplete
+    * Ability to click and drag the components into other days
+    
 ## Schedule
     * Calendar Layout (v1)
         - Layout:
             - Date
+                - Click on date for more info about the day???
             - Day
             - Reading Planned for that day
+                - Maximum readings per day == 1 by default
+                    - Can set this in advanced settings
+                - readings on each day can be grabbed and dragged to another day 
         - Try to integrate google calendar into the website (v2)
         - Toggle Some days to be "Chill days" so that no readings will be assigned that day (v2)
+            - Can do this in the advanced settings page
+                - For the weekly chill days => refer to the v1 paper draft for a visual display where Sat and Sun are shaded, indicating a chill day
+            - Can also toggle other days to be chill days by simply not putting readings on that day 
         - Tasks assigned to each day will be based on the study plan that the user have opted to (v2)
+    * re-Eval Feature
+        - When readings are dragged to another day or day becomes a chill day
+            - Reading that was supposed to be there will be "pushed" to the next available day
+                - Readings will follow the "max readings per day" when it is assigned
+                - Ideally the readings will be pushed to available days and attempt to maintain the goal date that had been set my user
+                - However, if date cannot be met without increasing the max readings per day then:
+                    - User is warned of this; User is then given the choice to either increase max readings per day OR toggle date to the reccomended date as per tabulation
+        - Readings may be paired as follows:
+            - Easy + Easy
+            - Medium + Easy
+            - Hard  
     * Option to integrate with google calendars (v2)
     * Hours Planned (v2)
     * Hours Studied (v2)
