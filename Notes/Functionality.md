@@ -34,9 +34,14 @@
     * End (v2)
         * A simple btn to stop the timer
 ## Each Reading Page
-    * Upon completion, user will add tags to best describe reading (v3)
-    * each reading will be accompanied by a thread for users to add comments or ask questions for other users to ask (v3)
-    * 
+    * The title of the reading
+    * The intensity of the reading
+    * The Learning Objectives
+    * A Thread for users to add comments or ask questions for other users to ask (v3)
+    * Upon completion:
+        - User will add tags to best describe reading (v3)
+        -
+    
 
 ## Each Reading Component(on schedule page)
     * Color of component based on the "intensity" level
@@ -48,7 +53,8 @@
         - Tick will be green when completed
         - Tick will be white when INcomplete
     * Ability to click and drag the components into other days
-    
+    * Clicking on the component brings you to the "each reading page"
+
 ## Schedule
     * Calendar Layout (v1)
         - Layout:
