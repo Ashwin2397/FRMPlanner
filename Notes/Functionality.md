@@ -36,8 +36,15 @@
 ## Each Reading Page
     * The title of the reading
     * The intensity of the reading
+    * The mastery level of the reading
+    * Tags to describe reading
     * The Learning Objectives
     * A Thread for users to add comments or ask questions for other users to ask (v3)
+        - A Dropdown menu for a choice to display comments, questions or both  
+            - Displays both by default
+
+        - Everything added to thread can be classified as either a comment or a question
+
     * Upon completion:
         - User will add tags to best describe reading (v3)
         -
