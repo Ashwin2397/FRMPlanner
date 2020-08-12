@@ -165,6 +165,11 @@
     - Login Button
     - SignUp Button
 
+## Log In Page:
+    - A simple form
+        - username or email
+        - password
+
 ## Sign Up Page:
     - A simple form
         - username
@@ -176,8 +181,6 @@
     - Prompt to sync with google calendar
         - Ensure that schedule can be displayed on google calendar as well 
     - Prompt for desired study plan 
-
-         
 
 ## Dashboard Page:
     - KPI Containers:
@@ -197,6 +200,8 @@
         - Questions Answered
         - Comments Posted
         - Questions Asked
+
+## Schedule Page:
 
 ## Schedule Settings Page:
     - Toggle Maximum readings per day
@@ -229,8 +234,18 @@
             - All comments displayed with a reply textbox
 
 
-## Schedule Page:
+# Comprehensive List of Pages:
 
+    1. DashBoard Page
+    2. Landing Page
+    3. LogIn Page
+    4. Sign Up Page
+    5. Intialization Page
+    6. Profile Page
+    7. Schedule Page
+    8. Schedule Settings Page
+    9. Readings Page
+    10. Each Reading Page
 
 # Universal Components:
 
@@ -244,10 +259,3 @@
 
 
 
-Do they receive a verification email
-How does a user login
-How does a user change their password
-How does a user navigate through the app
-How does a user change their user settings
-How does a user pay for the app
-How does a user cancel their subscription
