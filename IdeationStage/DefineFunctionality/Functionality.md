@@ -11,6 +11,10 @@
     * Retrieve lost passwords
     * Change their passwords
     * Create new study plan for the upcoming exam
+    * Post comment or questions for each reading
+    * Upvote favoured comment
+    * Save/Favourite a comment
+        * Which would then be saved in a favourite/saved posts page accesssed via settings or profile page
 
 ## Readings
     * All readings displayed (v1)

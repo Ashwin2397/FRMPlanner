@@ -24,6 +24,8 @@
             - Takes you to the **Profile Page**
         - Schedule Settings
             - Takes you to the **Schedule Settings Page**
+        - Favourited Posts
+            - Takes you to the **Favourite Posts Page**
         - Sign Out Button
         - 
 ## Intialization(Upon registration and first sign-in):
@@ -233,6 +235,8 @@
             - "Add a comment" text box
             - All comments displayed with a reply textbox
 
+## Favourite Posts Page
+### Tentative Page, ignore for now
 
 # Comprehensive List of Pages:
 
