@@ -7,3 +7,5 @@ DevelopmentStage/NOTES.md
 # -------------
 .vscode/
 
+# Ignore Dependencies
+DevelopmentStage/server/node_modules/
