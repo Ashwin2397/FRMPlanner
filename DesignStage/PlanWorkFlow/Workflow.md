@@ -153,7 +153,7 @@
     
 # Comprehensive List of Pages:
 
-    1. DashBoard Page
+    1. DashBoard Page <=> FOURTH
     2. Landing Page <=> Least Important right now
     3. LogIn Page <=> Add Auth at the end
     4. Sign Up Page <=> Add Auth at the end
