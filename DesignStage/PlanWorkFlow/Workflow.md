@@ -151,17 +151,19 @@
     - How:
         - - Slide the slider along the meter to the desired intensity level rating
     
+# Comprehensive List of Pages:
 
+    1. DashBoard Page
+    2. Landing Page <=> Least Important right now
+    3. LogIn Page <=> Add Auth at the end
+    4. Sign Up Page <=> Add Auth at the end
+    5. Intialization Page <=> Add at the end
+    6. Profile Page <=> After adding Auth 
+    7. Schedule Page <=> THIRD
+    8. Schedule Settings Page
+    9. Readings Page <=> FIRST
+    10. Each Reading Page <=> SECOND
 
-  
-    
-## 
-    - Why:
-    - Where:
-    - How:
-    
-
-# Pages 
 ## Landing Page:
     - Very visual description of product
     - Login Button
@@ -238,18 +240,6 @@
 ## Favourite Posts Page
 ### Tentative Page, ignore for now
 
-# Comprehensive List of Pages:
-
-    1. DashBoard Page
-    2. Landing Page
-    3. LogIn Page
-    4. Sign Up Page
-    5. Intialization Page
-    6. Profile Page
-    7. Schedule Page
-    8. Schedule Settings Page
-    9. Readings Page
-    10. Each Reading Page
 
 # Universal Components:
 

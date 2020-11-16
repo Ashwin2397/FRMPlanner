@@ -33,10 +33,7 @@
     * Read? (v1)    
     * Reviewed? (v1)
     * Extra Notes (v2)
-    * Start (v2)
-        * A checkbox to start the timer
-    * End (v2)
-        * A simple btn to stop the timer
+    * Checkbox to mark complete
 ## Each Reading Page
     * The title of the reading
     * The intensity of the reading
@@ -46,9 +43,7 @@
     * A Thread for users to add comments or ask questions for other users to ask (v3)
         - A Dropdown menu for a choice to display comments, questions or both  
             - Displays both by default
-
         - Everything added to thread can be classified as either a comment or a question
-
     * Upon completion:
         - User will add tags to best describe reading (v3)
         -
