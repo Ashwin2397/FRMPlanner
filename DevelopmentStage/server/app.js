@@ -6,6 +6,13 @@ var mongoose = require("mongoose"),
 // routes
 var indexRoutes = require("./routes/index.js");
 
+// Connect to local db
+mongoose.connect("mongodb://localhost/trees",{
+    useNewUrlParser: true
+}).then(() => {
+    console.log("Connected to DB");
+})
+
 // Connect app to routes
 app.use("/",indexRoutes);
 
