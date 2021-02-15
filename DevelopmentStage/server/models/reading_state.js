@@ -9,7 +9,8 @@ var readingStateSchema = new mongoose.Schema({
         
         type: mongoose.Schema.Types.ObjectId,
         ref: "Reading"
-    }
+    },
+    assignedDate: Date
     
 });
 
