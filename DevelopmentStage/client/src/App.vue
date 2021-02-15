@@ -1,14 +1,18 @@
 <template>
   <div id="app">
     <router-view/>
+    <DescriptiveTag title="Hi there" progress="15"></DescriptiveTag>
   </div>
 </template>
 
 <script>
 
+import DescriptiveTag from './components/DescriptiveTag.vue'
+
 export default {
   name: 'App',
   components: {
+    DescriptiveTag
   }
 }
 </script>
