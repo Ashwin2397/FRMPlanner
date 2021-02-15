@@ -1,18 +1,18 @@
 <template>
   <div id="app">
     <router-view/>
-    <DescriptiveTag title="Hi there" progress="15"></DescriptiveTag>
+    <ProgressBar title="Hi there" progress="15"></ProgressBar>
   </div>
 </template>
 
 <script>
 
-import DescriptiveTag from './components/DescriptiveTag.vue'
+import ProgressBar from './components/ProgressBar.vue'
 
 export default {
   name: 'App',
   components: {
-    DescriptiveTag
+    ProgressBar
   }
 }
 </script>

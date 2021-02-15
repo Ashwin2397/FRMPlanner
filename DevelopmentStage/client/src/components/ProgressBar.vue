@@ -8,7 +8,7 @@
 
 <script>
 export default {
-    name: 'DescriptiveTag',
+    name: 'ProgressBar',
     props:{
         title: String,
         progress: Number
