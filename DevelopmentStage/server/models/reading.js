@@ -6,7 +6,12 @@ var readingSchema = new mongoose.Schema({
     readingNumber: String,
     lo: [String],
     intensity: String,
-    tags:[String],
+    tags:[
+        {
+            title: String,
+            color: String
+        }
+    ],
     thread: {
         
         type: mongoose.Schema.Types.ObjectId,
