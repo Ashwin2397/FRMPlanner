@@ -2,17 +2,21 @@
   <div id="app">
     <router-view/>
     <ProgressBar title="Hi there" progress="15"></ProgressBar>
+    <DescriptiveTag title="Intense" color="red"></DescriptiveTag>
   </div>
 </template>
 
 <script>
 
 import ProgressBar from './components/ProgressBar.vue'
+import DescriptiveTag from './components/DescriptiveTag.vue'
+
 
 export default {
   name: 'App',
   components: {
-    ProgressBar
+    ProgressBar,
+    DescriptiveTag
   }
 }
 </script>

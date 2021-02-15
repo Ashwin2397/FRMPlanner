@@ -23,6 +23,7 @@ export default {
     border:1px solid black;
     position:relative;
     text-align: center;
+    color: red;
     vertical-align: middle;
 
 }
@@ -30,7 +31,7 @@ export default {
 .child {
     content:'\A';
     position:absolute;
-    background:black;
+    background:green;
     top:0; bottom:0;
     left:0; 
 }
